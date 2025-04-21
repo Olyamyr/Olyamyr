@@ -1,5 +1,5 @@
+![accurate id-Quality-Assurance-Adalah-Salah-Satu-Penentu-Tingginya-Kualitas-Suatu-Produk](https://github.com/user-attachments/assets/eebb1d61-fa07-445b-8b11-fbcf0e196caf)
 
-![090d97e653c4dcc2be82de536ff390c0](https://github.com/user-attachments/assets/bc4ab45e-35fe-4766-bd63-73096035365c)
 - 👋 Hi, I’m @Olyamyr
 - 👀 I’m interested in software testing, automation, and ensuring high-quality products.
 - 🌱 I’m currently learning test automation frameworks like Selenium and TestNG.
