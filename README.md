@@ -1,5 +1,4 @@
-
-![images](https://github.com/user-attachments/assets/993b9f1e-2949-4519-aefb-e54d01f62adc)
+![quality-assurance-servic_1 jpg__1200x1200_q80_subsampling-2](https://github.com/user-attachments/assets/1710c371-e944-484a-bcdd-b15a2d457333)
 
 - 👋 Hi, I’m Olga
 - 👀 I’m interested in software testing, automation, and ensuring high-quality products.
