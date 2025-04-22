@@ -1,4 +1,5 @@
-![accurate id-Quality-Assurance-Adalah-Salah-Satu-Penentu-Tingginya-Kualitas-Suatu-Produk](https://github.com/user-attachments/assets/eebb1d61-fa07-445b-8b11-fbcf0e196caf)
+
+![images](https://github.com/user-attachments/assets/993b9f1e-2949-4519-aefb-e54d01f62adc)
 
 - 👋 Hi, I’m Olga
 - 👀 I’m interested in software testing, automation, and ensuring high-quality products.
