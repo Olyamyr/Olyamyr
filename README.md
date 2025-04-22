@@ -1,4 +1,4 @@
-<img width="1042" alt="Снимок экрана 2025-04-22 в 11 22 09" src="https://github.com/user-attachments/assets/63722eea-3afe-4eb9-be37-9c5c76ceb614" />
+![Uploading Снимок экрана 2025-04-22 в 13.39.39.png…]()
 
 - 👋 Hi, I’m Olga
 - 👀 I’m interested in software testing, automation, and ensuring high-quality products.
